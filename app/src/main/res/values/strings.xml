@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vega</string>
+    <string name="channel_name">Vega assistant</string>
+    <string name="notification_text">Tap the orb or say a command</string>
+    <string name="talk">Talk</string>
+</resources>
